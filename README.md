@@ -439,11 +439,11 @@ By following these steps, you’ll have BelBedu9 configured and ready to enhance
 your prayer experience on your Linux system. Enjoy the seamless integration and 
 functionality that BelBedu9 brings to your daily routine! 🌟
 
-## Example Screenshoot BelBedu9
+### Screenshoot 📁
 
 | <img src="accessories/tampilan/cliBelbedu9br.png" alt="CLI BelBedu9 LM" width="400"/> | <img src="accessories/tampilan/cliBelbedu9lm.png" alt="CLI BelBedu9 BR" width="400"/> |
 |--------------------------------------------------------|--------------------------------------------------------|
-| CLI BelBedu9 Lama                                            | CLI BelBedu9 Baru                                            |
+| CLI BelBedu9 Baru                                            | CLI BelBedu9 Lama                                            |
 | <img src="accessories/tampilan/templateDSL.png" alt="Template Daftar Salat Lengkap" width="400"/> | <img src="accessories/tampilan/templateMJ.png" alt="Template Melihat Jauh" width="400"/> |
 | Template Daftar Salat Lengkap                                            | Template Melihat Jauh                                            |
 
