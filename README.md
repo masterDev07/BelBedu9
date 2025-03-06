@@ -387,12 +387,6 @@ BelBedu9 runs smoothly and meets your expectations! 🚀
      alias gtdt='gt dt'
      alias gtje='gt je'
      alias gtjp='gt jp'
-     alias saa='sudo apt autoremove -y'
-     alias sag='sudo apt upgrade'
-     alias sai='sudo apt install'
-     alias sar='sudo apt remove'
-     alias sas='sudo apt search'
-     alias sau='sudo apt update'
      ```
 
 5. **Configure the BelBedu9 AP Client**:
