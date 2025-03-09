@@ -437,7 +437,7 @@ integration and functionality that **Bel Bedu9** brings to your daily routine! ğ
 
 ### Screenshoot ğŸ“
 
-| <img src="accessories/tampilan/cliBelBedu9br.png" alt="CLI Bel Bedu9 LM" width="400"/> | <img src="accessories/tampilan/cliBelBedu9lm.png" alt="CLI Bel Bedu9 BR" width="400"/> |
+| <img src="accessories/tampilan/cliBelbedu9br.png" alt="CLI Bel Bedu9 LM" width="400"/> | <img src="accessories/tampilan/cliBelbedu9lm.png" alt="CLI Bel Bedu9 BR" width="400"/> |
 |--------------------------------------------------------|--------------------------------------------------------|
 | CLI Bel Bedu9 Baru                                            | CLI Bel Bedu9 Lama                                            |
 | <img src="accessories/tampilan/templateDSL.png" alt="Template Daftar Salat Lengkap" width="400"/> | <img src="accessories/tampilan/templateMJ.png" alt="Template Melihat Jauh" width="400"/> |
