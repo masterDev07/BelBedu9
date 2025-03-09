@@ -1,5 +1,4 @@
-# 🌟 "Elevate Your Prayer Experience with Bel Bedu9: The Future of Notification 
-**Awaits!**" 🌟
+# 🌟 "Elevate Your Prayer Experience with Bel Bedu9: The Future of Notification Awaits!" 🌟
 
 ## A. Bel Bedu9 Introduction
 
