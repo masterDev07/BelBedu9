@@ -1,60 +1,63 @@
-# 🌟 BelBedu9: Introduction and Features 🌟
+# 🌟 "Elevate Your Prayer Experience with Bel Bedu9: The Future of Notification 
+**Awaits!**" 🌟
 
-## A. Introduction
+## A. Bel Bedu9 Introduction
 
-Welcome to the world of **BelBedu9**, an innovative message notification 
-application designed to transform and elevate your prayer experience! 🙏✨ This 
-state-of-the-art application harnesses the power of your computer monitor or 
-TV, paired with engaging audio notifications, to deliver timely alerts before 
-the adhan, during the adhan, and for the iqamah. With exceptional accuracy, 
-BelBedu9 calculates the five daily obligatory prayer times based on your 
-precise GPS location in Indonesia. 🕌
+Welcome to the revolutionary world of **Bel Bedu9**, an innovative message 
+notification application designed to transform and elevate your prayer 
+experience! 🙏✨ This cutting-edge app harnesses the power of your computer 
+monitor or 📺 TV, paired with captivating audio notifications, to deliver timely 
+alerts before the adhan, during the adhan, and for the iqamah. With remarkable 
+precision, **Bel Bedu9** calculates the five daily obligatory prayer times 
+based on your exact GPS location in Indonesia. 🇮🇩🕌
 
-BelBedu9 is perfect for a wide range of environments, including homes, mosques, 
+**Bel Bedu9** is perfect for a variety of settings, including homes, mosques, 
 offices, hospitals, markets, restaurants, and cafes. It not only announces the 
 current prayer time but also prominently displays it on the screen, ensuring 
-that everyone is kept in the loop. Plus, the application can be configured to 
-send hourly notifications, providing real-time updates on the current prayer 
+that everyone stays informed. Additionally, the application can be configured 
+to send hourly notifications, providing real-time updates on the current prayer 
 time, complete with the hour and minute. ⏰
 
-But that’s not all! BelBedu9 also boasts an intelligent power management system 
-for your monitor or TV, allowing you to effortlessly turn the display on and 
-off to save energy. 🌱 With its intuitive user interface and customizable 
-settings, BelBedu9 is the ultimate solution for anyone looking to stay 
-connected to their prayer schedule while promoting energy efficiency. 
+But that’s just the beginning! **Bel Bedu9** also features an intelligent power 
+management system for your monitor or TV, allowing you to effortlessly turn the 
+display on and off to save energy. 🌱 With its intuitive user interface and 
+customizable settings, **Bel Bedu9** is the ultimate solution for anyone 
+looking to stay connected to their prayer schedule while promoting energy 
+efficiency. 
+
 Experience the convenience and innovation of prayer time notifications like 
-never before with BelBedu9! 🚀
+never before with **Bel Bedu9**! 🚀
 
-## How to Configure
+## How to Configure Bel Bedu9
 
-Configuring BelBedu9 is a breeze! 🛠️ You can easily make adjustments using a 
-text editor like Geany on Linux or any text editor available on Android. 
-Additionally, you can remotely configure BelBedu9 over a Wi-Fi connection by 
-utilizing an SSH client on Windows, Linux, or Android platforms. This 
+Configuring **Bel Bedu9** is a breeze! 🛠️ You can easily make adjustments using 
+a text editor like Geany on Linux or any text editor available on Android. 
+Additionally, you can remotely configure **Bel Bedu9** over a Wi-Fi connection 
+by utilizing an SSH client on Windows, Linux, or Android platforms. This 
 flexibility allows for convenient adjustments and management from virtually 
 anywhere, ensuring that you can tailor the device to meet your specific needs 
 with ease. 🌐
 
-## How to Close the GUI Screen of BelBedu9
+## How to Close the GUI Screen of Bel Bedu9
 
-Closing the BelBedu9 GUI is incredibly simple! Just perform a right mouse click 
-or use the command **CLI bd tt** or **gt tt** to close it effortlessly. 🖱️
+Closing the **Bel Bedu9** GUI is incredibly simple! Just perform a right mouse 
+click or use the command **CLI bd tt** or **gt tt** to close it effortlessly. 🖱️
 
-With BelBedu9, staying connected to your prayer schedule has never been easier 
-or more efficient! Embrace the future of prayer notifications and enhance your 
-spiritual journey today! 🌈
+With **Bel Bedu9**, staying connected to your prayer schedule has never been 
+easier or more efficient! Embrace the future of prayer notifications and 
+enhance your spiritual journey today! 🌈
 
-## Additional Features of BelBedu9
+## Additional Features of Bel Bedu9
 
-BelBedu9 is packed with features that enhance its functionality and user 
+**Bel Bedu9** is packed with features that enhance its functionality and user 
 experience. Here are some standout capabilities that make this application a 
 must-have for anyone looking to streamline their prayer notifications:
 
 ### Customizable Notifications
 - **Personalized Alerts**: Users can customize the type and frequency of 
 notifications, ensuring that they receive alerts that suit their preferences. 
-Whether you prefer gentle reminders or more pronounced alerts, BelBedu9 has you 
-covered. 🔔
+Whether you prefer gentle reminders or more pronounced alerts, **Bel Bedu9** 
+has you covered. 🔔
 - **Multi-Language Support**: The application supports multiple languages, 
 making it accessible to a diverse user base. This feature ensures that everyone 
 can navigate and utilize the app comfortably. 🌍
@@ -64,7 +67,7 @@ can navigate and utilize the app comfortably. 🌍
 settings, including different fonts, colors, and sizes for the prayer times and 
 notifications. This ensures that the information is not only clear but also 
 visually appealing. 🎨
-- **Audio Notifications**: In addition to visual alerts, BelBedu9 provides 
+- **Audio Notifications**: In addition to visual alerts, **Bel Bedu9** provides 
 audio notifications that can be customized. Choose from a selection of sounds 
 to accompany your prayer time alerts, enhancing the overall experience. 🎶
 
@@ -79,33 +82,33 @@ that you remain connected to your prayer schedule. 🌿
 making it easy for anyone to navigate and configure settings without technical 
 expertise. The straightforward layout ensures that users can quickly access the 
 features they need. 🖥️
-- **Help and Support**: BelBedu9 comes with comprehensive documentation and 
+- **Help and Support**: Bel Bedu9 comes with comprehensive documentation and 
 support resources, ensuring that users can find assistance whenever needed. 
 Whether you have a question about configuration or troubleshooting, help is 
 just a click away. 📚
 
 ## Conclusion
 
-BelBedu9 is more than just a notification application; it’s a comprehensive 
+Bel Bedu9 is more than just a notification application; it’s a comprehensive 
 tool designed to enhance your spiritual practice. With its innovative features, 
 customizable settings, and user-friendly interface, it provides a seamless way 
 to stay connected to your prayer schedule. Experience the convenience and 
-efficiency of BelBedu9 today, and transform the way you engage with your daily 
-prayers! 🌟
+efficiency of **Bel Bedu9** today, and transform the way you engage with your 
+daily prayers! 🌟
 
-For more information or to get started with BelBedu9, feel free to reach out 
-via email at [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com). Your journey 
+For more information or to get started with **Bel Bedu9**, feel free to reach 
+out via email at [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com). Your journey 
 towards a more connected prayer experience begins here! 🚀
 
 ---
 
-## B. Author of BelBedu9  
+## B. Author of Bel Bedu9  
 **Endro Mei Asmoro**  
 Email: [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com)  
 
 ---
 
-## C. GUI Features
+## C. GUI Features Bel Bedu9
 
 The configuration files can be found in the **config/vvip** or **config/vip** 
 directories. Here’s a breakdown of the exciting features available in the GUI:
@@ -146,7 +149,7 @@ needed. 📅
 calendars simultaneously. 🌙
 4. **Manual Adjustments**: If there’s a discrepancy of a day (like during 
 Ramadan), you can manually correct it in the **configuration.conf** file (CLI 
-BelBedu9) and **kalenderJamhitungmundurDll.conf** (GUI BelBedu9). 🔧
+Bel Bedu9) and **kalenderJamhitungmundurDll.conf** (GUI Bel Bedu9). 🔧
 5. **Ramadan Weeks**: The calendar displays the 1st, 2nd, and 3rd weeks of 
 Ramadan. 🌙
 6. **Muharram Dates**: View the dates from the 1st to the 10th of Muharram. 📅
@@ -174,9 +177,9 @@ second hands. ⏱️
 2. **Size Configuration**: Adjust the width and height of the analog clock to 
 fit your display needs. 📏
 
-With these features, the GUI of BelBedu9 offers a versatile and user-friendly 
-experience, making it easier than ever to stay connected with prayer times and 
-important dates! 🌟
+With these features, the GUI of **Bel Bedu9** offers a versatile and 
+user-friendly experience, making it easier than ever to stay connected with 
+prayer times and important dates! 🌟
 
 ### Pictures of the Mosque/Kaaba
 
@@ -254,13 +257,13 @@ template automatically changes at the beginning of each prayer. ⏰
 
 ### GT Features
 
-Discover the power of customization with BelBedu9! Below is a list of commands 
-that allow you to tailor the template to suit your unique needs. Let’s dive 
-into the exciting possibilities! 🚀
+Discover the power of customization with **Bel Bedu9!** Below is a list of 
+commands that allow you to tailor the template to suit your unique needs. Let’s 
+dive into the exciting possibilities! 🚀
 
-With these features, BelBedu9 provides a comprehensive and engaging experience, 
-ensuring that your prayer notifications and displays are not only informative 
-but also visually captivating! 🌈
+With these features, **Bel Bedu9** provides a comprehensive and engaging 
+experience, ensuring that your prayer notifications and displays are not only 
+informative but also visually captivating! 🌈
 
 - **gt mj**: Switch to a far-sighted template for a broader view of your 
 surroundings. 🌄
@@ -278,12 +281,12 @@ a dynamic perspective. 🏙️
 precision. ⏰
 - **gt jp**: Elevate your display with the elegant white jam template for a 
 sophisticated time presentation. 🎩
-- **gt tt**: Easily close the graphical interface (GUI) of BelBedu9 with this 
+- **gt tt**: Easily close the graphical interface (GUI) of Bel Bedu9 with this 
 simple command. ❌
 - **gt tm**: Quickly and efficiently close the terminal with just one command. 🖥️
 
 With these commands at your fingertips, you can effortlessly customize your 
-user experience in the BelBedu9 VVIP CLI. Happy customizing! 🎉
+user experience in the **Bel Bedu9 VVIP CLI**. Happy customizing! 🎉
 
 ### Automatically Turn On/Off Monitor/TV
 
@@ -339,24 +342,24 @@ device is ready to go as soon as electricity returns, eliminating the hassle of
 manual intervention. With this level of convenience, you can focus on what 
 truly matters—your spiritual journey! 🌈
 
-### How to Configure BelBedu9 on Linux
+### How to Configure Bel Bedu9 on Linux
 
-Setting up **BelBedu9** on your Linux system is a straightforward process, 
+Setting up **Bel Bedu9** on your Linux system is a straightforward process, 
 especially if you're using a Debian-based distribution like Linux Mint 22 Wilma 
 or any other compatible Linux distro. Follow these steps to ensure that 
-BelBedu9 runs smoothly and meets your expectations! 🚀
+**Bel Bedu9** runs smoothly and meets your expectations! 🚀
 
 1. **Adjust the Hijri Date**: 
-   - Open the GUI of BelBedu9 or use the command `bd lm` to check the current 
-   settings. If the Hijri date needs adjustment, modify the 
+   - Open the GUI of **Bel Bedu9** or use the command `bd lm` to check the 
+   current settings. If the Hijri date needs adjustment, modify the 
    `deltatanggalhijriyah` attribute in the configuration file located at 
    `~/Music/BelBedu9/config/cli/configuration.conf`. 📅
    - After making changes, run the command `bd th` to apply the updates. 🔄
 
-2. **Add BelBedu9 to Startup**:
+2. **Add Bel Bedu9 to Startup**:
    - Navigate to "Home" -- "Settings" -- "Session and startup". ⚙️
    - Under the "Application Startup" tab, add `~/Music/BelBedu9/bedu9 bl` to 
-     ensure BelBedu9 launches automatically when you start your computer. 🖥️
+     ensure **Bel Bedu9** launches automatically when you start your computer. 🖥️
 
 3. **Power Management Settings**:
    - For optimal power management, set the following:
@@ -389,7 +392,7 @@ BelBedu9 runs smoothly and meets your expectations! 🚀
      alias gtjp='gt jp'
      ```
 
-5. **Configure the BelBedu9 AP Client**:
+5. **Configure the Bel Bedu9 AP Client**:
    - Right-click on your Wi-Fi network connection and select "Edit Wi-Fi 
    Connections." 📶
    - Choose the desired AP and click the gear icon. ⚙️
@@ -419,8 +422,8 @@ BelBedu9 runs smoothly and meets your expectations! 🚀
 
 8. **Install Fonts in the Local Directory**:
    - Place your desired fonts in the `~/.local/share/fonts` directory. All 
-   fonts in accessories/fontsGratisbelBedu9.tar.gz [Font 
-   BelBedu9](accessories/fontsGratisbelBedu9.tar.gz). This will ensure they 
+   fonts in accessories/fontsGratisBelBedu9.tar.gz [Font 
+   Bel Bedu9](accessories/fontsGratisBelBedu9.tar.gz). This will ensure they 
    display correctly according to your font configuration. 🖋️
 
 9. **Configure XFCE Desktop Environment**:
@@ -429,15 +432,15 @@ BelBedu9 runs smoothly and meets your expectations! 🚀
      - **Icons**: Papirus Dark 🌑
      - **Fonts**: Monospace Regular 🖥️
 
-By following these steps, you’ll have BelBedu9 configured and ready to enhance 
-your prayer experience on your Linux system. Enjoy the seamless integration and 
-functionality that BelBedu9 brings to your daily routine! 🌟
+By following these steps, you’ll have **Bel Bedu9** configured and ready to 
+enhance your prayer experience on your Linux system. Enjoy the seamless 
+integration and functionality that **Bel Bedu9** brings to your daily routine! 🌟
 
 ### Screenshoot 📁
 
-| <img src="accessories/tampilan/cliBelbedu9br.png" alt="CLI BelBedu9 LM" width="400"/> | <img src="accessories/tampilan/cliBelbedu9lm.png" alt="CLI BelBedu9 BR" width="400"/> |
+| <img src="accessories/tampilan/cliBelBedu9br.png" alt="CLI Bel Bedu9 LM" width="400"/> | <img src="accessories/tampilan/cliBelBedu9lm.png" alt="CLI Bel Bedu9 BR" width="400"/> |
 |--------------------------------------------------------|--------------------------------------------------------|
-| CLI BelBedu9 Baru                                            | CLI BelBedu9 Lama                                            |
+| CLI Bel Bedu9 Baru                                            | CLI Bel Bedu9 Lama                                            |
 | <img src="accessories/tampilan/templateDSL.png" alt="Template Daftar Salat Lengkap" width="400"/> | <img src="accessories/tampilan/templateMJ.png" alt="Template Melihat Jauh" width="400"/> |
 | Template Daftar Salat Lengkap                                            | Template Melihat Jauh                                            |
 
@@ -445,12 +448,12 @@ functionality that BelBedu9 brings to your daily routine! 🌟
 
 This application is available for free until **[Expired](kadaluwarsa.txt)**. If 
 you're interested in ordering an extended version that lasts up to 15 years, 
-please reach out to the creator of BelBedu9 via email. 📧
+please reach out to the creator of **Bel Bedu9** via email. 📧
 
 ## Contact Us 📬
 
 If you have any questions, feel free to contact us at:
 - ✉️ Email: [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com)
 
-Thank you for using BelBedu9! We hope this application proves to be beneficial 
-for you. 🎉✨
+Thank you for using **Bel Bedu9!** We hope this application proves to be 
+beneficial for you. 🎉✨
