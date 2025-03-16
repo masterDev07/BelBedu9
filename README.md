@@ -88,7 +88,7 @@ just a click away. 📚
 
 ## Conclusion
 
-Bel Bedu9 is more than just a notification application; it’s a comprehensive 
+**Bel Bedu9** is more than just a notification application; it’s a comprehensive 
 tool designed to enhance your spiritual practice. With its innovative features, 
 customizable settings, and user-friendly interface, it provides a seamless way 
 to stay connected to your prayer schedule. Experience the convenience and 
@@ -352,7 +352,8 @@ or any other compatible Linux distro. Follow these steps to ensure that
    - Open the GUI of **Bel Bedu9** or use the command `bd lm` to check the 
    current settings. If the Hijri date needs adjustment, modify the 
    `deltatanggalhijriyah` attribute in the configuration file located at 
-   `~/Music/BelBedu9/config/cli/configuration.conf`. 📅
+   `~/Music/BelBedu9/config/cli/configuration.conf`[File 
+   Configuration](config/cli/configuration.conf). 📅
    - After making changes, run the command `bd th` to apply the updates. 🔄
 
 2. **Add Bel Bedu9 to Startup**:
