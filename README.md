@@ -5,10 +5,29 @@
 Welcome to the revolutionary world of **Bel Bedu9**, an innovative message 
 notification application designed to transform and elevate your prayer 
 experience! 🙏✨ This cutting-edge app harnesses the power of your computer 
-monitor or 📺 TV, paired with captivating audio notifications, to deliver timely 
-alerts before the adhan, during the adhan, and for the iqamah. With remarkable 
-precision, **Bel Bedu9** calculates the five daily obligatory prayer times 
-based on your exact GPS location in Indonesia. 🇮🇩🕌
+monitor or 📺 TV, paired with captivating audio notifications, to deliver 
+timely alerts before the adhan, during the adhan, and for the iqamah. With 
+remarkable precision, **Bel Bedu9** calculates the five daily obligatory prayer 
+times based on your exact GPS location in Indonesia. 🇮🇩🕌
+
+The Hijri calendar day begins at sunset, specifically at 6:00 PM 🌇. This 
+timing aligns with the lunar cycle 🌙, where each new day starts with the 
+appearance of the new moon 🌑, making it essential for various Islamic 
+observances and practices. The Hijri calendar operates on a lunar basis, and 
+each month starts with the sighting of the new moon. The day is considered to 
+begin at sunset, which is crucial for determining the start of daily prayers 
+🙏, fasting 🌅, and other religious activities. This timing is particularly 
+significant during the month of Ramadan 🌙, where the daily fast begins at dawn 
+and ends at sunset, marking the transition to the next day in the Hijri calendar.
+
+Understanding this system helps in accurately observing Islamic rituals and 
+maintaining the correct schedule for prayers and fasting throughout the month 
+⏰. To facilitate this understanding, the **GUI Bel Bedu9** displays the Hijri 
+date for the following day at 6:00 PM 🌇. With this feature, users can easily 
+grasp the principles of the Hijri calendar 📅, which emphasizes that each day 
+begins at 6 PM. This is particularly beneficial for speakers during Ramadan 🌙, 
+especially for those delivering short sermons (kultum) after Isha prayers 🙏, 
+as they will no longer need to manually add an extra day to their calculations.
 
 **Bel Bedu9** is perfect for a variety of settings, including homes, mosques, 
 offices, hospitals, markets, restaurants, and cafes. It not only announces the 
@@ -20,12 +39,14 @@ time, complete with the hour and minute. ⏰
 But that’s just the beginning! **Bel Bedu9** also features an intelligent power 
 management system for your monitor or TV, allowing you to effortlessly turn the 
 display on and off to save energy. 🌱 With its intuitive user interface and 
-customizable settings, **Bel Bedu9** is the ultimate solution for anyone 
-looking to stay connected to their prayer schedule while promoting energy 
-efficiency. 
+customizable settings, Bel Bedu9 is the ultimate solution for anyone looking to 
+stay connected to their prayer schedule while promoting energy efficiency.
 
 Experience the convenience and innovation of prayer time notifications like 
-never before with **Bel Bedu9**! 🚀
+never before with **Bel Bedu9!** 🚀 By providing timely information and aligning 
+with the Hijri calendar, Bel Bedu9 ensures that everyone can effectively plan 
+and participate in Ramadan activities 🎉, making it an essential tool for the 
+modern Muslim.
 
 ## How to Configure Bel Bedu9
 
@@ -443,6 +464,9 @@ integration and functionality that **Bel Bedu9** brings to your daily routine! �
 | CLI Bel Bedu9 Baru                                            | CLI Bel Bedu9 Lama                                            |
 | <img src="accessories/tampilan/templateDSL.png" alt="Template Daftar Salat Lengkap" width="400"/> | <img src="accessories/tampilan/templateMJ.png" alt="Template Melihat Jauh" width="400"/> |
 | Template Daftar Salat Lengkap                                            | Template Melihat Jauh                                            |
+| <img src="accessories/tampilan/templateSDS.png" alt="Template Satu Daftar Salat" width="400"/> | <img src="accessories/tampilan/templateST.png" alt="Template Satu Tower" width="400"/> |
+| Template Satu Daftar Salat                                            | Template Satu Tower                                            |
+
 
 ### Usage Deadline ⏳
 
