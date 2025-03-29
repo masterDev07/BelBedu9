@@ -374,7 +374,7 @@ or any other compatible Linux distro. Follow these steps to ensure that
    current settings. If the Hijri date needs adjustment, modify the 
    `deltatanggalhijriyah` attribute in the configuration file located at 
    `~/Music/BelBedu9/config/cli/configuration.conf`[File 
-   Configuration](config/cli/configuration.conf). 📅
+   Configuration](BelBedu9/BelBedu9/opt/BelBedu9/config/cli/configuration.conf). 📅
    - After making changes, run the command `bd th` to apply the updates. 🔄
 
 2. **Add Bel Bedu9 to Startup**:
@@ -470,7 +470,7 @@ integration and functionality that **Bel Bedu9** brings to your daily routine! �
 
 ### Usage Deadline ⏳
 
-This application is available for free until **[Expired](kadaluwarsa.txt)**. If 
+This application is available for free until **[Expired](BelBedu9/BelBedu9/opt/BelBedu9/kadaluwarsa.txt)**. If 
 you're interested in ordering an extended version that lasts up to 15 years, 
 please reach out to the creator of **Bel Bedu9** via email. 📧
 
