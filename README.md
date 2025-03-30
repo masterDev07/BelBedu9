@@ -362,6 +362,18 @@ device is ready to go as soon as electricity returns, eliminating the hassle of
 manual intervention. With this level of convenience, you can focus on what 
 truly matters—your spiritual journey! 🌈
 
+### How to Install Bel Bedu9 🚀
+
+1. Clone this repository: 🖥️✨
+   ```bash
+   git clone https://github.com/masterDev07/BelBedu9
+   ``` 
+
+2. Copy the directory BelBedu9 to `~/Music`: 🎵📂
+   ```bash
+   cp -rf BelBedu9/BelBedu9/opt/BelBedu9 ~/Music
+   ```
+
 ### How to Configure Bel Bedu9 on Linux
 
 Setting up **Bel Bedu9** on your Linux system is a straightforward process, 
@@ -374,7 +386,7 @@ or any other compatible Linux distro. Follow these steps to ensure that
    current settings. If the Hijri date needs adjustment, modify the 
    `deltatanggalhijriyah` attribute in the configuration file located at 
    `~/Music/BelBedu9/config/cli/configuration.conf`[File 
-   Configuration](BelBedu9/BelBedu9/opt/BelBedu9/config/cli/configuration.conf). 📅
+   Configuration](BelBedu9/opt/BelBedu9/config/cli/configuration.conf). 📅
    - After making changes, run the command `bd th` to apply the updates. 🔄
 
 2. **Add Bel Bedu9 to Startup**:
