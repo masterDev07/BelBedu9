@@ -354,14 +354,6 @@ Adhan, with reminders every 15 minutes leading up to the prayer time.
 Notifications will clearly indicate the remaining time until the next prayer, 
 displaying intervals of 45, 30, and 15 minutes, so you’re always in the loop. 🔔
 
-### Automatic Booting of Mini PC
-
-Enjoy seamless operation with our Mini PC, which automatically boots up when 
-power is restored after an outage. 🔌 This fantastic feature ensures that your 
-device is ready to go as soon as electricity returns, eliminating the hassle of 
-manual intervention. With this level of convenience, you can focus on what 
-truly matters—your spiritual journey! 🌈
-
 ### How to Install Bel Bedu9 🚀
 
 1. Clone this repository: 🖥️✨
