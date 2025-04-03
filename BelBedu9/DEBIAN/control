@@ -1,8 +1,0 @@
-Package: BelBedu9
-Version: 1.0
-Section: utils
-Priority: optional
-Architecture: all
-Depends: itools,mpg123
-Maintainer: Endro Mei Asmoro <dolarmoro@yahoo.com>
-Description: CLI and GUI Bel Bedu9
