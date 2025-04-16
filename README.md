@@ -448,7 +448,7 @@ or any other compatible Linux distro. Follow these steps to ensure that
 8. **Install Fonts in the Local Directory**:
    - Place your desired fonts in the `~/.local/share/fonts` directory. All 
    fonts in accessories/fontsGratisBelBedu9.tar.gz [Font 
-   Bel Bedu9](accessories/fontsGratisBelBedu9.tar.gz). This will ensure they 
+   Bel Bedu9](accessories/fontsGratisbelBedu9.tar.gz). This will ensure they 
    display correctly according to your font configuration. 🖋️
 
 9. **Configure XFCE Desktop Environment**:
