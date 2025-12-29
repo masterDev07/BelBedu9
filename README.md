@@ -474,7 +474,7 @@ integration and functionality that **Bel Bedu9** brings to your daily routine! �
 
 ### Usage Deadline ⏳
 
-This application is available for free until **[Expired](BelBedu9/opt/BelBedu9/kadaluwarsa.txt)**. If 
+This application is available for free until **[Expired](accessories/kadaluwarsa.txt)**. If 
 you're interested in ordering an extended version that lasts up to 15 years, 
 please reach out to the creator of **Bel Bedu9** via email. 📧
 
