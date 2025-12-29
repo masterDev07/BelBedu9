@@ -356,14 +356,14 @@ displaying intervals of 45, 30, and 15 minutes, so you’re always in the loop. 
 
 ### How to Install Bel Bedu9 🚀
 
-1. Clone this repository: 🖥️✨
+1. Go to release link and download last release: 🖥️✨
    ```bash
-   git clone https://github.com/masterDev07/BelBedu9
+   https://github.com/masterDev07/BelBedu9/releases
    ``` 
 
-2. Copy the directory BelBedu9 to `~/Music`: 🎵📂
+2. Install BelBedu9 on your lovely linux distribution: 🎵📂
    ```bash
-   cp -rf BelBedu9/BelBedu9/opt/BelBedu9 ~/Music
+   sudo dpkg -i BelBedu9_1.0_all.deb
    ```
 
 ### How to Configure Bel Bedu9 on Linux
@@ -377,13 +377,13 @@ or any other compatible Linux distro. Follow these steps to ensure that
    - Open the GUI of **Bel Bedu9** or use the command `bd lm` to check the 
    current settings. If the Hijri date needs adjustment, modify the 
    `deltatanggalhijriyah` attribute in the configuration file located at 
-   `~/Music/BelBedu9/config/cli/configuration.conf`[File 
+   `/opt/BelBedu9/config/cli/configuration.conf`[File 
    Configuration](BelBedu9/opt/BelBedu9/config/cli/configuration.conf). 📅
    - After making changes, run the command `bd th` to apply the updates. 🔄
 
 2. **Add Bel Bedu9 to Startup**:
    - Navigate to "Home" -- "Settings" -- "Session and startup". ⚙️
-   - Under the "Application Startup" tab, add `~/Music/BelBedu9/bedu9 bl` to 
+   - Under the "Application Startup" tab, add `/opt/BelBedu9/bedu9 bl` to 
      ensure **Bel Bedu9** launches automatically when you start your computer. 🖥️
 
 3. **Power Management Settings**:
@@ -396,17 +396,17 @@ or any other compatible Linux distro. Follow these steps to ensure that
 4. **Add Aliases in .bashrc**:
    - Open your `.bashrc` file and add the following aliases for quick access:
      ```bash
-     alias bd='~/Music/BelBedu9/bedu9'
+     alias bd='/opt/BelBedu9/bedu9'
      alias bdbr='bd br'
      alias bdcl='bd hc;bd;cl'
      alias bdlm='bd lm'
      alias cl='crontab -l | cat -n'
      alias nb='nano ~/.bashrc'
      alias nba='source ~/.bashrc'
-     alias pb='~/Music/BelBedu9/pesanBox'
+     alias pb='/opt/BelBedu9/pesanBox'
      alias pbmon='pb mon'
      alias pbmof='pb mof'
-     alias gt='~/Music/BelBedu9/gt'
+     alias gt='/opt/BelBedu9/gt'
      alias gtmj='gt mj'
      alias gtsds='gt sds'
      alias gtgp='gt gp'
