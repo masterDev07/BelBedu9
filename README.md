@@ -117,14 +117,14 @@ efficiency of **Bel Bedu9** today, and transform the way you engage with your
 daily prayers! 🌟
 
 For more information or to get started with **Bel Bedu9**, feel free to reach 
-out via email at [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com). Your journey 
+out via email at [emasmoro@gmail.com](mailto:emasmoro@gmail.com). Your journey
 towards a more connected prayer experience begins here! 🚀
 
 ---
 
 ## B. Author of Bel Bedu9  
 **Endro Mei Asmoro**  
-Email: [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com)  
+Email: [emasmoro@gmail.com](mailto:emasmoro@gmail.com)
 
 ---
 
@@ -363,8 +363,35 @@ displaying intervals of 45, 30, and 15 minutes, so you’re always in the loop. 
 
 2. Install BelBedu9 on your lovely linux distribution: 🎵📂
    ```bash
-   sudo dpkg -i BelBedu9_1.0_all.deb
+   sudo dpkg -i BelBedu9_2026-07_all.deb # untuk program utama
+   sudo dpkg -i acc-belbedu9_2026-07_all.deb # untuk 3 dir mp3,config dan gambar
    ```
+
+3. Install lib python for BelBedu9
+
+    Semua modul di bawah ini wajib tersedia di dalam "virtual environment" Anda.
+
+    ## 1. External Packages (Wajib di-install lewat PIP)
+    ```text
+    PIL
+    colorama
+    colorclass
+    hijri_converter
+    hijridate
+    terminaltables
+    tk_tools
+    ```
+
+    ## 2. Built-in Modules (Sudah satu paket dengan Python Interpreter)
+    * `configparser` (Untuk membaca properti file konfigurasi)
+    * `datetime` & `time` (Untuk manajemen objek waktu)
+    * `glob`, `os`, & `sys` (Untuk interaksi core kernel OS)
+    * `itertools`, `math`, `random` (Komputasi algoritma dasar)
+    * `re` & `string` (Pemrosesan karakter teks)
+    * `tkinter` (Runtime user interface dasar)
+
+4. Pastikan lokasi virtual environment Anda sudah benar di /opt/BelBedu9/config/cli/configuration.conf pada atribut "venvPath:"
+
 
 ### How to Configure Bel Bedu9 on Linux
 
@@ -481,7 +508,7 @@ please reach out to the creator of **Bel Bedu9** via email. 📧
 ## Contact Us 📬
 
 If you have any questions, feel free to contact us at:
-- ✉️ Email: [duitmoro@yahoo.com](mailto:duitmoro@yahoo.com)
+- ✉️ Email: [emasmoro@gmail.com](mailto:emasmoro@gmail.com)
 
 Thank you for using **Bel Bedu9!** We hope this application proves to be 
 beneficial for you. 🎉✨
