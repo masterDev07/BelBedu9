@@ -371,7 +371,7 @@ displaying intervals of 45, 30, and 15 minutes, so you’re always in the loop. 
 
     Semua modul di bawah ini wajib tersedia di dalam "virtual environment" Anda.
 
-    ## 1. External Packages (Wajib di-install lewat PIP)
+    #### 1. External Packages (Wajib di-install lewat PIP)
     ```text
     PIL
     colorama
@@ -382,7 +382,7 @@ displaying intervals of 45, 30, and 15 minutes, so you’re always in the loop. 
     tk_tools
     ```
 
-    ## 2. Built-in Modules (Sudah satu paket dengan Python Interpreter)
+    #### 2. Built-in Modules (Sudah satu paket dengan Python Interpreter)
     * `configparser` (Untuk membaca properti file konfigurasi)
     * `datetime` & `time` (Untuk manajemen objek waktu)
     * `glob`, `os`, & `sys` (Untuk interaksi core kernel OS)
