@@ -363,13 +363,13 @@ displaying intervals of 45, 30, and 15 minutes, so you’re always in the loop. 
 
 2. Install BelBedu9 on your lovely linux distribution: 🎵📂
    ```bash
-   sudo dpkg -i BelBedu9_2026-07_all.deb # untuk program utama
-   sudo dpkg -i acc-belbedu9_2026-07_all.deb # untuk 3 dir mp3,config dan gambar
+   sudo dpkg -i BelBedu9_2026-07_all.deb # for main program
+   sudo dpkg -i acc-belbedu9_2026-07_all.deb # for 3 dir mp3,config and gambar
    ```
 
 3. Install lib python for BelBedu9
 
-    Semua modul di bawah ini wajib tersedia di dalam "virtual environment" Anda.
+    All below module must install at your python virtuala environment.
 
     #### 1. External Packages (Wajib di-install lewat PIP)
     ```text
@@ -383,14 +383,14 @@ displaying intervals of 45, 30, and 15 minutes, so you’re always in the loop. 
     ```
 
     #### 2. Built-in Modules (Sudah satu paket dengan Python Interpreter)
-    * `configparser` (Untuk membaca properti file konfigurasi)
-    * `datetime` & `time` (Untuk manajemen objek waktu)
-    * `glob`, `os`, & `sys` (Untuk interaksi core kernel OS)
-    * `itertools`, `math`, `random` (Komputasi algoritma dasar)
-    * `re` & `string` (Pemrosesan karakter teks)
-    * `tkinter` (Runtime user interface dasar)
+    * `configparser`
+    * `datetime` & `time`
+    * `glob`, `os`, & `sys`
+    * `itertools`, `math`, `random`
+    * `re` & `string`
+    * `tkinter`
 
-4. Pastikan lokasi virtual environment Anda sudah benar di /opt/BelBedu9/config/cli/configuration.conf pada atribut "venvPath:"
+4. Ensure your path virtual environment in /opt/BelBedu9/config/cli/configuration.conf on "venvPath:" attribute.
 
 
 ### How to Configure Bel Bedu9 on Linux
