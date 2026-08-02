@@ -369,7 +369,7 @@ displaying intervals of 45, 30, and 15 minutes, so you’re always in the loop. 
 
 3. Install lib python for BelBedu9
 
-    All below module must install at your python virtuala environment.
+    All below module must be installed at your python virtual environment.
 
     #### 1. External Packages (Wajib di-install lewat PIP)
     ```text
@@ -390,7 +390,7 @@ displaying intervals of 45, 30, and 15 minutes, so you’re always in the loop. 
     * `re` & `string`
     * `tkinter`
 
-4. Ensure your path virtual environment in /opt/BelBedu9/config/cli/configuration.conf on "venvPath:" attribute.
+4. Ensure your path python virtual environment in /opt/BelBedu9/config/cli/configuration.conf on "venvPath:" attribute.
 
 
 ### How to Configure Bel Bedu9 on Linux
